@@ -26,5 +26,10 @@ Or double click `index.html` in your file manager.
 ## API
 
 This frontend connects to the Card Validator API.
+
+
 Repository: https://github.com/Slmpire/card-validator
+
+
+
 Live URL : https://card-validator-frontend.onrender.com/
