@@ -8,7 +8,6 @@ Accepts a card number input, sends it to the Card Validator API, and displays wh
 
 ## Live Demo
 
-Frontend: https://your-render-frontend-url.onrender.com
 API: https://card-validator-7bzt.onrender.com
 
 ## Running Locally
